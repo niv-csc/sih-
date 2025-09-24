@@ -1,0 +1,6 @@
+/* EduManage AI - Minimal global styles */
+/* Most styles are defined in the design system (index.css and tailwind.config.ts) */
+
+#root {
+  min-height: 100vh;
+}
